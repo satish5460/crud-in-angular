@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "satish",
+      "email": "test@gmail.com",
+      "mobile": "1234567890",
+      "fees": "123412"
+    },
+    {
+      "id": 3,
+      "name": "anb",
+      "email": "abn",
+      "mobile": "12345",
+      "fees": "123400"
+    },
+    {
+      "id": 4,
+      "name": "dsasa",
+      "email": "sdsd",
+      "mobile": "24324",
+      "fees": "223434"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
